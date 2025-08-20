@@ -7,7 +7,7 @@ const ImportantInfo = () => {
             <ol className="custom-list">
                 <li >
                     <span>1</span>
-                    <p style={{ paddingTop: '1pt', textAlign: 'left' }}>
+                    <p style={{ paddingTop: '1pt', textAlign: 'left',paddingLeft: "6pt", }}>
                         Candidate particulars have been indicated as mentioned by her/him in the online Application Form, which is subject to verification by the admitting authorities.
                     </p>
                 </li>
@@ -19,7 +19,7 @@ const ImportantInfo = () => {
                 </li>
                 <li>
                     <span>3</span>
-                    <p style={{ paddingTop: '1pt', textIndent: '7pt', textAlign: 'left' }}>
+                    <p style={{ paddingTop: '1pt',paddingLeft: "6pt", textAlign: 'left' }}>
                         Under the UR Category, the candidates from other categories i.e. General-EWS, OBC, SC, ST, and PwBD but meeting UR-cut off percentile are also included.
                     </p>
                 </li>
@@ -49,7 +49,7 @@ const ImportantInfo = () => {
                 </li>
                 <li>
                     <span>8</span>
-                    <p style={{ paddingTop: '1pt', textIndent: '7pt', textAlign: 'left' }}>
+                    <p style={{ paddingTop: '1pt', paddingLeft: "6pt", textAlign: 'left' }}>
                         All candidates are advised to remain in touch with the websites of counselling authorities for updates.
                     </p>
                 </li>

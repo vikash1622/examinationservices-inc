@@ -18,8 +18,9 @@ const Notes = () => {
                         The percentile of a candidate has been calculated as follows:
                     </p>
                     <p className="s5" style={{ paddingTop: '1pt',  textIndent: '-54pt', lineHeight: '120%', textAlign: 'center' }}>
-                        <u>100 X Number of candidates appeared in the examination with raw score LESS than the candidate</u><br />
-                        Total number of candidates who appeared in the examination
+                        <u>100 X Number of candidates appeared in the examination with raw score LESS than the candidate</u>
+                        <div style={{margin:"2px 0"}}></div>
+                    Total number of candidates who appeared in the examination
                     </p>
                 </li>
                 <li data-number="4">
